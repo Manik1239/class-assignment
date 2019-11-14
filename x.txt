@@ -1,0 +1,5 @@
+1 print working days and holiday in a week
+2 write [prog to find greater number also sort in ascending order , use a 5 list random number10,5,15,20,14,19.
+3 palindrom,area of circle,perimeter of circle,swapping 
+4 write prog to find e=mc^2 where c is constant for air or E=(1/2)*m*(v^2).
+5 conversion between xml dtd2 xml schema
